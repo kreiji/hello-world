@@ -2,8 +2,7 @@
 
 > ¿No sabes hacer uno de los platillos más sencillos del mundo? ¡Entonces esta guía es para ti! Solo sigue estos pasos muy sencillos y aprenderás a cocinar un muy buen cereal con leche.
 
-![picture 1]
-(https://tse2.mm.bing.net/th?id=OIP.UqtYsfpX_iAXJajqbnfEWAHaE7&pid=Api)
+![picture 1](https://tse2.mm.bing.net/th?id=OIP.UqtYsfpX_iAXJajqbnfEWAHaE7&pid=Api)
 
 ## **Ingredientes**
 * 1 taza de cereal (de tu preferencia)
@@ -21,8 +20,7 @@
 ## **Video Tutorial**
 **[How To: Make A Bowl of Cereal de Seth Neil Cooper](https://www.youtube.com/watch?v=b5ujiiqv1No)
 
-![picture 2]
-(https://fitpeople.com/wp-content/uploads/2018/09/cereal-for-breakfast-1024x680.jpg)
+![picture 2](https://fitpeople.com/wp-content/uploads/2018/09/cereal-for-breakfast-1024x680.jpg)
 
 ## Meta
 **Carelia Ibarra**  - [GitHub](https://github.com/kreiji)
