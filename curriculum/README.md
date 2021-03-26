@@ -15,3 +15,11 @@ Ingeniería en Tecnologías Computacionales (expected graduation date: July 2024
 
 * Make Up Artist (03/2018 - 02/2020)
 > SeCare Salón. Hermosillo, México.
+
+## Languages
+
+* Spanish (Native)
+* English (C1)
+* German (B1)
+* Japanese (N4)
+
