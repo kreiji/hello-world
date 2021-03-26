@@ -23,3 +23,15 @@ Ingeniería en Tecnologías Computacionales (expected graduation date: July 2024
 * German (B1)
 * Japanese (N4)
 
+## Hard Skills
+
+* Microsoft Office Proficiency 
+* Foreign Language Learning
+* C++ Programming
+* Python Programming
+
+## Soft Skills
+
+* Teamwork
+* Problem Solving
+* Communication
